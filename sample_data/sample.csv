@@ -1,0 +1,9 @@
+Date,Product,Quantity,Price,Customer
+2026-02-03 00:00:00,Laptop,1,50000,ABC Traders
+2026-02-06 00:00:00,Mouse,8,800,City Mart
+2026-02-09 00:00:00,Keyboard,4,1500,XYZ Stores
+2026-02-13 00:00:00,Monitor,2,12000,Tech Hub
+2026-02-16 00:00:00,Printer,1,15000,Digital World
+2026-02-19 00:00:00,Webcam,5,2500,ABC Traders
+2026-02-24 00:00:00,Router,6,3000,City Mart
+2026-02-27 00:00:00,SSD,2,6000,XYZ Stores
