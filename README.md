@@ -22,7 +22,7 @@ Its a simple Python desktop application that converts CSV files into Excel(.xlsx
 - OS Module
 
 ## Project Structure
-
+```
 CSV_to_Excel_Converter/
 │
 ├── csv_to_excel.py
@@ -32,6 +32,7 @@ CSV_to_Excel_Converter/
 ├── sample_data/
 │   └── Sample.csv
 └── output/
+```
 
 ## Installation 
 
