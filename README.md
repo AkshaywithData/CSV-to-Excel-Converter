@@ -25,6 +25,10 @@ Its a simple Python desktop application that converts CSV files into Excel(.xlsx
 ```
 CSV_to_Excel_Converter/
 │
+│── Screenshots/
+│         │── Conversion to excel.png
+│         └── selection window.png
+│
 ├── csv_to_excel.py
 ├── requirements.txt
 ├── README.md
