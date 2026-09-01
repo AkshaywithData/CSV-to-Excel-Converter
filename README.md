@@ -60,16 +60,9 @@ python csv_to_excel.py
 
 3. Click **Browse Folder** and choose the destination folder.
 
-4. Click **Convert to Excel**.
+4. Click **Convert**.
 
 5. The converted Excel file will be saved in the selected folder.
-
-## Libraries
-
-- tkinter
-- pandas
-- openpyxl
-- os
 
 
 ## Future Improvements
